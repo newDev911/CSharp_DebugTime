@@ -1,0 +1,6 @@
+H:\Tutorials\C#\Exercises\JavaTpoint\CSharp-JavaTpoint\CSharpOOP-debugTime\bin\Debug\CSharpOOP-debugTime.exe.config
+H:\Tutorials\C#\Exercises\JavaTpoint\CSharp-JavaTpoint\CSharpOOP-debugTime\bin\Debug\CSharpOOP-debugTime.exe
+H:\Tutorials\C#\Exercises\JavaTpoint\CSharp-JavaTpoint\CSharpOOP-debugTime\bin\Debug\CSharpOOP-debugTime.pdb
+H:\Tutorials\C#\Exercises\JavaTpoint\CSharp-JavaTpoint\CSharpOOP-debugTime\obj\Debug\CSharpOOP-debugTime.csprojResolveAssemblyReference.cache
+H:\Tutorials\C#\Exercises\JavaTpoint\CSharp-JavaTpoint\CSharpOOP-debugTime\obj\Debug\CSharpOOP-debugTime.exe
+H:\Tutorials\C#\Exercises\JavaTpoint\CSharp-JavaTpoint\CSharpOOP-debugTime\obj\Debug\CSharpOOP-debugTime.pdb
